@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shiva-sai-824](https://github.com/shiva-sai-824)
 
-- 💬 Ask me about **Web Development, Python, DSA**
+- 💬 Ask me about **AI-ML, Python, DSA**
 
 - 📫 How to reach me **shivasaikmalla@gmail.com**
 
